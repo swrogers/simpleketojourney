@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Simple Keto Journey - Other</title><link href="https://simpleketojourney.com/" rel="alternate"></link><link href="https://simpleketojourney.com/feeds/other.atom.xml" rel="self"></link><id>https://simpleketojourney.com/</id><updated>2021-11-17T14:04:26-06:00</updated><entry><title>Yet another article</title><link href="https://simpleketojourney.com/posts/2021/11/17/yet-another-article/" rel="alternate"></link><published>2021-11-17T14:04:26-06:00</published><updated>2021-11-17T14:04:26-06:00</updated><author><name>Shane</name></author><id>tag:simpleketojourney.com,2021-11-17:/posts/2021/11/17/yet-another-article/</id><summary type="html">&lt;p&gt;I think I may have something sorted out here - just need some kind of workflow.&lt;/p&gt;
+&lt;p&gt;Write the new items into the 'content' branch, then see if that will be good enough to basically stay there?&lt;/p&gt;
+&lt;p&gt;Or, write the new items into the 'content' branch, merge into the 'main' branch, then …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I think I may have something sorted out here - just need some kind of workflow.&lt;/p&gt;
+&lt;p&gt;Write the new items into the 'content' branch, then see if that will be good enough to basically stay there?&lt;/p&gt;
+&lt;p&gt;Or, write the new items into the 'content' branch, merge into the 'main' branch, then publish?&lt;/p&gt;
+&lt;p&gt;Ugh.&lt;/p&gt;</content><category term="Other"></category></entry></feed>
