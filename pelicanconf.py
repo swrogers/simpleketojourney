@@ -49,5 +49,9 @@ MONTH_ARCHIVE_URL = 'posts/{date:%Y}/'
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%m}/index.html'
 YEAR_ARCHIVE_URL = 'posts/{date:%Y}/{date:%m}/'
 
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},
+                       }
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
