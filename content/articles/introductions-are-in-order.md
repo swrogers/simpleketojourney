@@ -18,13 +18,13 @@ August 8, 2019. In two days I would be celbrating my 42nd birthday. I'd make a n
 
 We had talked about going keto for probably a decade - well, well before it was "the thing" that everybody did. Well, not everybody I'm sure, but before it was quite the popular option that it is now. We always had concerns though:
 
-*  "But it's going to be so expensive!" 
+*  __"But it's going to be so expensive!"__ 
    Well, sure it's going to be expensive to replace everything that we eat, and all that meat is gonna cost us...but, what about our health? Healthcare ain't cheap either!
 
-*  "But what if I fail?" 
+*  __"But what if I fail?"__ 
    Then you try again! Everybody has a fear of failure, and this was certainly one of mine.
 
-*  "But....carbs are my favorite food group!" 
+*  __"But....carbs are my favorite food group!"__ 
    There is absolutely no doubt that giving up carbs, or going down to 20 or fewer carbs a day can be a challenge, it's certainly been a fun one to accomplish.
 
 *  I'm sure there are others, but we'll get to those in due time I'm sure.
